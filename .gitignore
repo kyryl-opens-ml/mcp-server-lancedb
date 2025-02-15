@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Test artifacts
+.coverage
+coverage.xml
+.pytest_cache/
+lancedb/
+llms-full.txt
